@@ -3,5 +3,11 @@ torch
 cpuonly
 numpy
 networkx
+math
+random
+argparse
+tqdm
+streamlit
+streamlit_ketcher
 rdkit==2023.3.3
 
