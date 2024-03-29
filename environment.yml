@@ -11,4 +11,7 @@ dependencies:
   - rdkit
   - certifi
   - flask
+  - streamlit
+  - argparse
+  - streamlit_ketcher
   - chemprop
