@@ -3,5 +3,5 @@ torch
 cpuonly
 numpy
 networkx
-rdkit
+rdkit==2023.3.3
 
