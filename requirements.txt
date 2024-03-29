@@ -2,7 +2,6 @@ chemprop==1.6.1
 torch
 numpy
 networkx
-random
 argparse
 tqdm
 streamlit
