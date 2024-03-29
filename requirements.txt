@@ -1,4 +1,4 @@
-chemprop
+chemprop==1.6.1
 torch
 cpuonly
 numpy
