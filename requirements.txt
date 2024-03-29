@@ -1,6 +1,7 @@
+chemprop
 torch
 cpuonly
 numpy
 networkx
 rdkit
-chemprop
+
