@@ -1,6 +1,3 @@
-# Multi-Objective Molecule Generation using Interpretable Substructures
-
-This is the implementation of our ICML 2020 paper: https://arxiv.org/abs/2002.03244
 
 ## Environment Setup
 An environment for rationale can be easily setup via Anaconda:
